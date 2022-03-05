@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Kham(cam) 👋
+
+- 🔭 I’m currently working on python applications
+- 🌱 I’m currently learning api and webscrapping using pyhton
+- ⛰ Fun fact: I'm a Bhutnese Refugee Born in Nepal 
+
+
+## Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmangar&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=kmangar&show_icons=true&theme=gotham" alt="github stats" width="45%"/>
+
 
 <!--
 **kmangar/kmangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
