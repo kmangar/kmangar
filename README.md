@@ -38,7 +38,6 @@
 ![JAVA](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=orange)
 ![C++](https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![PyCharm](https://img.shields.io/badge/DataGrip-143?style=for-the-badge&logo=DataGrip&logoColor=black&color=black&labelColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
