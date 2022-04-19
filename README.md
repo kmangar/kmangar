@@ -7,9 +7,9 @@
 
 ### Connect with me: 
 
-[<img align="left" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<a href="mailto:mangarkham+github@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[<img align="left" alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
+[<img alt="Mail" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>][mail]
 
 ## Frameworks, Libraries and VC
 
@@ -46,8 +46,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmangar&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api?username=kmangar&show_icons=true&theme=gotham" alt="github stats" width="45%"/>
 
-[mail]: mailto:mangarkham+github@gmail.com
-[instagram]: https://www.instagram.com/kham.magar/
+[mail]: mailto:codegara+github@gmail.com
 [linkedin]: https://www.linkedin.com/in/kham-mangar/
 
 <!--
