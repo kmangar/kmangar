@@ -1,8 +1,7 @@
 ### Hi there, I'm Kham(cam) 👋
 
 - 🔭 I’m currently working on python applications
-- 🌱 I’m currently learning api and webscrapping using pyhton
-- ⛰ Fun fact: I'm a Bhutnese Refugee Born in Nepal 
+- 🌱 I’m currently learning RESTful API and flask   
 
 
 ### Connect with me: 
