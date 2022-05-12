@@ -42,8 +42,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmangar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmangar&layout=compact) 
 <img src="https://github-readme-stats.vercel.app/api?username=kmangar&show_icons=true&theme=gotham" alt="github stats" width="45%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kmangar)
+
 
 [mail]: mailto:codegara+github@gmail.com
 [linkedin]: https://www.linkedin.com/in/kham-mangar/
